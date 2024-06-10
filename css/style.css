@@ -196,6 +196,13 @@ footer .social-icons a {
 
 /* ========== Media Quiries========== */
 
+@media (max-width:576px) {
+
+    .card-group {
+        display:block !important;
+    }
+}
+
 @media (max-width:992px) {
 
     .navbar-nav {
