@@ -270,6 +270,10 @@ footer .social-icons a {
         margin-right: 30px;
     }
 
+    .today .card-body .degree .deg-value {
+    font-size: 70px;
+}
+
 }
 
 /* ========== Spinner========== */
